@@ -1,0 +1,729 @@
+text,type,severity,component
+Dashboard page has a typo in the text. Steps: open the app and try again,Bug,Low,ui
+Dashboard page shows wrong results,Bug,High,ui
+The dashboard page is slow under heavy load after the latest release,Performance,Medium,ui
+Dashboard page is completely down,Bug,Critical,ui
+Problem: the dashboard page throws a fatal error and nothing works on production,Bug,Critical,ui
+Dashboard page exposes user data publicly. Steps: open the app and try again,Security,Critical,ui
+Dashboard page returns a 500 error,Bug,High,ui
+Problem: the dashboard page has an extra blank space on production,Bug,Low,ui
+Dashboard page needs support for dark mode,Feature Request,Low,ui
+The dashboard page takes more than 30 seconds to respond after the latest release,Performance,High,ui
+Problem: the dashboard page behaves inconsistently on production,Bug,Medium,ui
+Dashboard page causes data loss,Bug,Critical,ui
+Problem: the dashboard page times out for large data on production,Performance,High,ui
+Problem: the dashboard page is vulnerable to SQL injection on production,Security,Critical,ui
+Problem: the dropdown menu is slow under heavy load on production,Performance,Medium,ui
+The dropdown menu is completely down after the latest release,Bug,Critical,ui
+Users report that the dropdown menu does not refresh after an update,Bug,Medium,ui
+Dropdown menu causes data loss,Bug,Critical,ui
+Problem: the dropdown menu allows access without a password on production,Security,Critical,ui
+Dropdown menu does not work for many users,Bug,High,ui
+Problem: the dropdown menu button does nothing when clicked on production,Bug,Medium,ui
+Dropdown menu uses too much memory,Performance,Medium,ui
+Problem: the dropdown menu shows wrong results on production,Bug,High,ui
+The dropdown menu fails with an exception after the latest release,Bug,High,ui
+Dropdown menu has a small visual glitch. Steps: open the app and try again,Bug,Low,ui
+Problem: the dropdown menu fails intermittently on production,Bug,High,ui
+Dropdown menu would be better with a bulk edit option. Steps: open the app and try again,Feature Request,Low,ui
+Users report that the dropdown menu leaks sensitive tokens in the logs,Security,Critical,ui
+Users report that the navigation bar takes forever to load,Performance,Medium,ui
+Problem: the navigation bar has no rate limiting on production,Security,High,ui
+Navigation bar needs an option to filter by date,Feature Request,Low,ui
+Navigation bar has an extra blank space,Bug,Low,ui
+Problem: the navigation bar has a small visual glitch on production,Bug,Low,ui
+Navigation bar displays a wrong message. Steps: open the app and try again,Bug,Medium,ui
+The navigation bar fails intermittently after the latest release,Bug,High,ui
+Users report that the navigation bar would be better with a bulk edit option,Feature Request,Low,ui
+The navigation bar corrupts saved data after the latest release,Bug,Critical,ui
+Navigation bar stores passwords in plain text. Steps: open the app and try again,Security,High,ui
+Navigation bar times out for large data. Steps: open the app and try again,Performance,High,ui
+Navigation bar is slightly misaligned,Bug,Low,ui
+Navigation bar needs support for dark mode,Feature Request,Low,ui
+Problem: the navigation bar does not refresh after an update on production,Bug,Medium,ui
+Users report that the settings form leaks sensitive tokens in the logs,Security,Critical,ui
+Problem: the settings form has a typo in the text on production,Bug,Low,ui
+Settings form is slightly misaligned. Steps: open the app and try again,Bug,Low,ui
+Users report that the settings form uses the wrong colour,Bug,Low,ui
+Settings form stores passwords in plain text. Steps: open the app and try again,Security,High,ui
+Users report that the settings form times out for large data,Performance,High,ui
+Settings form takes forever to load,Performance,Medium,ui
+Settings form throws a fatal error and nothing works. Steps: open the app and try again,Bug,Critical,ui
+Users report that the settings form corrupts saved data,Bug,Critical,ui
+The settings form is not working properly after the latest release,Bug,Medium,ui
+Problem: the settings form hangs for a long time on production,Performance,Medium,ui
+Settings form allows access without a password,Security,Critical,ui
+Settings form crashes when I click it. Steps: open the app and try again,Bug,Critical,ui
+Settings form has an extra blank space,Bug,Low,ui
+Profile page behaves inconsistently. Steps: open the app and try again,Bug,Medium,ui
+Problem: the profile page button does nothing when clicked on production,Bug,Medium,ui
+Users report that the profile page does not work for many users,Bug,High,ui
+Profile page displays a wrong message. Steps: open the app and try again,Bug,Medium,ui
+Users report that the profile page is slow under heavy load,Performance,Medium,ui
+Profile page stores passwords in plain text. Steps: open the app and try again,Security,High,ui
+The profile page times out for large data after the latest release,Performance,High,ui
+The profile page corrupts saved data after the latest release,Bug,Critical,ui
+Profile page stops responding,Bug,High,ui
+The profile page is very slow after the latest release,Performance,Medium,ui
+The profile page has no rate limiting after the latest release,Security,High,ui
+The profile page is not working properly after the latest release,Bug,Medium,ui
+The profile page is vulnerable to SQL injection after the latest release,Security,Critical,ui
+Profile page throws a fatal error and nothing works,Bug,Critical,ui
+Problem: the search box times out for large data on production,Performance,High,ui
+Problem: the search box has no rate limiting on production,Security,High,ui
+Search box fails intermittently,Bug,High,ui
+Search box ignores the selected option. Steps: open the app and try again,Bug,Medium,ui
+Problem: the search box button does nothing when clicked on production,Bug,Medium,ui
+Search box crashes on startup. Steps: open the app and try again,Bug,Critical,ui
+Search box shows wrong results. Steps: open the app and try again,Bug,High,ui
+Search box uses too much memory. Steps: open the app and try again,Performance,Medium,ui
+Search box exposes user data publicly. Steps: open the app and try again,Security,Critical,ui
+Search box has an extra blank space,Bug,Low,ui
+Search box has a typo in the text. Steps: open the app and try again,Bug,Low,ui
+Search box does not work for many users. Steps: open the app and try again,Bug,High,ui
+Search box uses the wrong colour,Bug,Low,ui
+The search box lags when scrolling after the latest release,Performance,Medium,ui
+Sidebar throws a fatal error and nothing works,Bug,Critical,ui
+The sidebar behaves inconsistently after the latest release,Bug,Medium,ui
+Problem: the sidebar is very slow on production,Performance,Medium,ui
+Sidebar stops responding. Steps: open the app and try again,Bug,High,ui
+The sidebar fails with an exception after the latest release,Bug,High,ui
+Users report that the sidebar is slightly misaligned,Bug,Low,ui
+Users report that the sidebar is completely down,Bug,Critical,ui
+Problem: the sidebar returns a 500 error on production,Bug,High,ui
+Users report that the sidebar crashes on startup,Bug,Critical,ui
+Sidebar shows wrong results. Steps: open the app and try again,Bug,High,ui
+Sidebar allows access without a password,Security,Critical,ui
+Sidebar has an extra blank space,Bug,Low,ui
+Sidebar has a small visual glitch. Steps: open the app and try again,Bug,Low,ui
+Sidebar exposes user data publicly. Steps: open the app and try again,Security,Critical,ui
+Users report that the modal dialog hangs for a long time,Performance,Medium,ui
+The modal dialog needs an option to filter by date after the latest release,Feature Request,Low,ui
+Problem: the modal dialog has a small visual glitch on production,Bug,Low,ui
+Modal dialog corrupts saved data,Bug,Critical,ui
+Problem: the modal dialog shows wrong results on production,Bug,High,ui
+Users report that the modal dialog returns a 500 error,Bug,High,ui
+Modal dialog is slightly misaligned,Bug,Low,ui
+Users report that the modal dialog ignores the selected option,Bug,Medium,ui
+Problem: the modal dialog would be better with a bulk edit option on production,Feature Request,Low,ui
+Users report that the modal dialog stops responding,Bug,High,ui
+The modal dialog crashes when I click it after the latest release,Bug,Critical,ui
+Users report that the modal dialog behaves inconsistently,Bug,Medium,ui
+The modal dialog exposes user data publicly after the latest release,Security,Critical,ui
+Problem: the modal dialog allows access without a password on production,Security,Critical,ui
+Mobile layout exposes user data publicly,Security,Critical,ui
+Users report that the mobile layout takes more than 30 seconds to respond,Performance,High,ui
+Mobile layout is slightly misaligned. Steps: open the app and try again,Bug,Low,ui
+Users report that the mobile layout does not refresh after an update,Bug,Medium,ui
+The mobile layout shows an incorrect value sometimes after the latest release,Bug,Medium,ui
+Problem: the mobile layout displays a wrong message on production,Bug,Medium,ui
+Users report that the mobile layout is slow under heavy load,Performance,Medium,ui
+Mobile layout needs support for dark mode. Steps: open the app and try again,Feature Request,Low,ui
+Users report that the mobile layout stores passwords in plain text,Security,High,ui
+Users report that the mobile layout is vulnerable to SQL injection,Security,Critical,ui
+Mobile layout times out for large data,Performance,High,ui
+The mobile layout uses the wrong colour after the latest release,Bug,Low,ui
+Mobile layout has an extra blank space,Bug,Low,ui
+The mobile layout crashes on startup after the latest release,Bug,Critical,ui
+The footer links hangs for a long time after the latest release,Performance,Medium,ui
+Footer links shows an incorrect value sometimes. Steps: open the app and try again,Bug,Medium,ui
+Users report that the footer links is slightly misaligned,Bug,Low,ui
+Footer links behaves inconsistently,Bug,Medium,ui
+Footer links needs an option to filter by date. Steps: open the app and try again,Feature Request,Low,ui
+Footer links crashes on startup. Steps: open the app and try again,Bug,Critical,ui
+Footer links stores passwords in plain text. Steps: open the app and try again,Security,High,ui
+Footer links uses the wrong colour,Bug,Low,ui
+The footer links corrupts saved data after the latest release,Bug,Critical,ui
+The footer links fails with an exception after the latest release,Bug,High,ui
+The footer links loads very slowly after the latest release,Performance,Medium,ui
+Footer links would be better with a bulk edit option,Feature Request,Low,ui
+The footer links displays a wrong message after the latest release,Bug,Medium,ui
+Problem: the footer links is very slow on production,Performance,Medium,ui
+The login button takes forever to load after the latest release,Performance,Medium,ui
+Login button would be better with a bulk edit option. Steps: open the app and try again,Feature Request,Low,ui
+The login button shows wrong results after the latest release,Bug,High,ui
+The login button needs support for dark mode after the latest release,Feature Request,Low,ui
+Login button stores passwords in plain text,Security,High,ui
+Users report that the login button hangs for a long time,Performance,Medium,ui
+The login button uses the wrong colour after the latest release,Bug,Low,ui
+Users report that the login button should allow exporting to CSV,Feature Request,Low,ui
+Problem: the login button does not work for many users on production,Bug,High,ui
+The login button crashes when I click it after the latest release,Bug,Critical,ui
+Problem: the login button crashes on startup on production,Bug,Critical,ui
+Users report that the login button returns a 500 error,Bug,High,ui
+Users report that the login button ignores the selected option,Bug,Medium,ui
+Problem: the login button has an extra blank space on production,Bug,Low,ui
+The submit button uses too much memory after the latest release,Performance,Medium,ui
+Problem: the submit button does not work for many users on production,Bug,High,ui
+Submit button is completely down,Bug,Critical,ui
+The submit button uses the wrong colour after the latest release,Bug,Low,ui
+The submit button takes forever to load after the latest release,Performance,Medium,ui
+The submit button has no rate limiting after the latest release,Security,High,ui
+Submit button is vulnerable to SQL injection. Steps: open the app and try again,Security,Critical,ui
+Problem: the submit button needs an option to filter by date on production,Feature Request,Low,ui
+Submit button takes more than 30 seconds to respond,Performance,High,ui
+Problem: the submit button would be better with a bulk edit option on production,Feature Request,Low,ui
+Submit button shows wrong results,Bug,High,ui
+Users report that the submit button crashes when I click it,Bug,Critical,ui
+Problem: the submit button lags when scrolling on production,Performance,Medium,ui
+Problem: the submit button does not refresh after an update on production,Bug,Medium,ui
+REST API allows access without a password,Security,Critical,backend
+REST API hangs for a long time. Steps: open the app and try again,Performance,Medium,backend
+Users report that the REST API returns a 500 error,Bug,High,backend
+Problem: the REST API needs an option to filter by date on production,Feature Request,Low,backend
+Problem: the REST API is completely down on production,Bug,Critical,backend
+Problem: the REST API displays a wrong message on production,Bug,Medium,backend
+Problem: the REST API shows an incorrect value sometimes on production,Bug,Medium,backend
+The REST API is not working properly after the latest release,Bug,Medium,backend
+Users report that the REST API causes data loss,Bug,Critical,backend
+REST API should allow exporting to CSV. Steps: open the app and try again,Feature Request,Low,backend
+Problem: the REST API takes more than 30 seconds to respond on production,Performance,High,backend
+Problem: the REST API is very slow on production,Performance,Medium,backend
+REST API needs support for dark mode. Steps: open the app and try again,Feature Request,Low,backend
+Problem: the REST API crashes on startup on production,Bug,Critical,backend
+The order service displays a wrong message after the latest release,Bug,Medium,backend
+Order service is vulnerable to SQL injection. Steps: open the app and try again,Security,Critical,backend
+Order service ignores the selected option,Bug,Medium,backend
+The order service allows access without a password after the latest release,Security,Critical,backend
+Users report that the order service shows an incorrect value sometimes,Bug,Medium,backend
+Order service is very slow,Performance,Medium,backend
+The order service does not work for many users after the latest release,Bug,High,backend
+Users report that the order service uses too much memory,Performance,Medium,backend
+The order service fails with an exception after the latest release,Bug,High,backend
+Users report that the order service is slow under heavy load,Performance,Medium,backend
+The order service has no rate limiting after the latest release,Security,High,backend
+Order service has a typo in the text. Steps: open the app and try again,Bug,Low,backend
+The order service causes data loss after the latest release,Bug,Critical,backend
+Order service is slightly misaligned,Bug,Low,backend
+Users report that the report export is slow under heavy load,Performance,Medium,backend
+Report export times out for large data,Performance,High,backend
+Users report that the report export stops responding,Bug,High,backend
+Problem: the report export does not refresh after an update on production,Bug,Medium,backend
+Report export should allow exporting to CSV. Steps: open the app and try again,Feature Request,Low,backend
+Report export lags when scrolling. Steps: open the app and try again,Performance,Medium,backend
+Report export takes more than 30 seconds to respond,Performance,High,backend
+Report export needs an option to filter by date. Steps: open the app and try again,Feature Request,Low,backend
+Users report that the report export is slightly misaligned,Bug,Low,backend
+Problem: the report export uses too much memory on production,Performance,Medium,backend
+Problem: the report export shows an incorrect value sometimes on production,Bug,Medium,backend
+Users report that the report export uses the wrong colour,Bug,Low,backend
+Problem: the report export stores passwords in plain text on production,Security,High,backend
+Report export causes data loss,Bug,Critical,backend
+Problem: the email service fails with an exception on production,Bug,High,backend
+Problem: the email service does not refresh after an update on production,Bug,Medium,backend
+Problem: the email service returns a 500 error on production,Bug,High,backend
+Email service corrupts saved data. Steps: open the app and try again,Bug,Critical,backend
+Users report that the email service ignores the selected option,Bug,Medium,backend
+Email service is not working properly,Bug,Medium,backend
+Users report that the email service causes data loss,Bug,Critical,backend
+Email service fails intermittently,Bug,High,backend
+The email service has no rate limiting after the latest release,Security,High,backend
+Email service does not work for many users. Steps: open the app and try again,Bug,High,backend
+Email service lags when scrolling,Performance,Medium,backend
+Users report that the email service stores passwords in plain text,Security,High,backend
+Email service shows an incorrect value sometimes,Bug,Medium,backend
+Email service throws a fatal error and nothing works,Bug,Critical,backend
+File upload ignores the selected option,Bug,Medium,backend
+Problem: the file upload corrupts saved data on production,Bug,Critical,backend
+The file upload stores passwords in plain text after the latest release,Security,High,backend
+File upload does not refresh after an update,Bug,Medium,backend
+The file upload throws a fatal error and nothing works after the latest release,Bug,Critical,backend
+Users report that the file upload needs an option to filter by date,Feature Request,Low,backend
+File upload fails with an exception,Bug,High,backend
+The file upload takes forever to load after the latest release,Performance,Medium,backend
+The file upload crashes on startup after the latest release,Bug,Critical,backend
+Users report that the file upload is slightly misaligned,Bug,Low,backend
+Users report that the file upload uses too much memory,Performance,Medium,backend
+Problem: the file upload is not working properly on production,Bug,Medium,backend
+The file upload has a small visual glitch after the latest release,Bug,Low,backend
+Users report that the file upload should allow exporting to CSV,Feature Request,Low,backend
+The background job is very slow after the latest release,Performance,Medium,backend
+Background job takes more than 30 seconds to respond. Steps: open the app and try again,Performance,High,backend
+Background job fails intermittently,Bug,High,backend
+Background job is not working properly. Steps: open the app and try again,Bug,Medium,backend
+Background job uses the wrong colour. Steps: open the app and try again,Bug,Low,backend
+Problem: the background job crashes when I click it on production,Bug,Critical,backend
+Background job ignores the selected option. Steps: open the app and try again,Bug,Medium,backend
+Problem: the background job causes data loss on production,Bug,Critical,backend
+Users report that the background job crashes on startup,Bug,Critical,backend
+The background job has no rate limiting after the latest release,Security,High,backend
+The background job would be better with a bulk edit option after the latest release,Feature Request,Low,backend
+Users report that the background job shows an incorrect value sometimes,Bug,Medium,backend
+The background job leaks sensitive tokens in the logs after the latest release,Security,Critical,backend
+The background job displays a wrong message after the latest release,Bug,Medium,backend
+Users report that the webhook handler is slow under heavy load,Performance,Medium,backend
+Problem: the webhook handler uses the wrong colour on production,Bug,Low,backend
+The webhook handler is completely down after the latest release,Bug,Critical,backend
+Users report that the webhook handler does not work for many users,Bug,High,backend
+Webhook handler crashes on startup,Bug,Critical,backend
+Webhook handler throws a fatal error and nothing works. Steps: open the app and try again,Bug,Critical,backend
+The webhook handler ignores the selected option after the latest release,Bug,Medium,backend
+The webhook handler lags when scrolling after the latest release,Performance,Medium,backend
+Users report that the webhook handler stops responding,Bug,High,backend
+Webhook handler should allow exporting to CSV. Steps: open the app and try again,Feature Request,Low,backend
+Webhook handler corrupts saved data,Bug,Critical,backend
+Users report that the webhook handler loads very slowly,Performance,Medium,backend
+Users report that the webhook handler allows access without a password,Security,Critical,backend
+Users report that the webhook handler leaks sensitive tokens in the logs,Security,Critical,backend
+Problem: the user service allows access without a password on production,Security,Critical,backend
+The user service has a typo in the text after the latest release,Bug,Low,backend
+The user service displays a wrong message after the latest release,Bug,Medium,backend
+Problem: the user service causes data loss on production,Bug,Critical,backend
+User service has a small visual glitch,Bug,Low,backend
+User service behaves inconsistently,Bug,Medium,backend
+Users report that the user service uses the wrong colour,Bug,Low,backend
+User service fails intermittently,Bug,High,backend
+The user service crashes on startup after the latest release,Bug,Critical,backend
+User service is slightly misaligned. Steps: open the app and try again,Bug,Low,backend
+Problem: the user service loads very slowly on production,Performance,Medium,backend
+User service corrupts saved data,Bug,Critical,backend
+User service should allow exporting to CSV. Steps: open the app and try again,Feature Request,Low,backend
+User service does not work for many users,Bug,High,backend
+Problem: the search endpoint has a small visual glitch on production,Bug,Low,backend
+The search endpoint needs an option to filter by date after the latest release,Feature Request,Low,backend
+Search endpoint should allow exporting to CSV,Feature Request,Low,backend
+Problem: the search endpoint does not refresh after an update on production,Bug,Medium,backend
+Search endpoint corrupts saved data. Steps: open the app and try again,Bug,Critical,backend
+Problem: the search endpoint has no rate limiting on production,Security,High,backend
+The search endpoint is vulnerable to SQL injection after the latest release,Security,Critical,backend
+Problem: the search endpoint shows wrong results on production,Bug,High,backend
+Problem: the search endpoint loads very slowly on production,Performance,Medium,backend
+Problem: the search endpoint has a typo in the text on production,Bug,Low,backend
+Search endpoint times out for large data,Performance,High,backend
+Problem: the search endpoint allows access without a password on production,Security,Critical,backend
+The search endpoint takes more than 30 seconds to respond after the latest release,Performance,High,backend
+Search endpoint has an extra blank space,Bug,Low,backend
+Notification service crashes when I click it. Steps: open the app and try again,Bug,Critical,backend
+Notification service causes data loss,Bug,Critical,backend
+Problem: the notification service does not work for many users on production,Bug,High,backend
+Problem: the notification service has an extra blank space on production,Bug,Low,backend
+Notification service returns a 500 error,Bug,High,backend
+Problem: the notification service loads very slowly on production,Performance,Medium,backend
+Notification service is very slow,Performance,Medium,backend
+Notification service allows access without a password. Steps: open the app and try again,Security,Critical,backend
+Users report that the notification service is completely down,Bug,Critical,backend
+Notification service needs an option to filter by date,Feature Request,Low,backend
+Users report that the notification service displays a wrong message,Bug,Medium,backend
+The notification service times out for large data after the latest release,Performance,High,backend
+The notification service should allow exporting to CSV after the latest release,Feature Request,Low,backend
+The notification service crashes on startup after the latest release,Bug,Critical,backend
+Users report that the customer table would be better with a bulk edit option,Feature Request,Low,database
+Problem: the customer table takes forever to load on production,Performance,Medium,database
+Problem: the customer table times out for large data on production,Performance,High,database
+The customer table loads very slowly after the latest release,Performance,Medium,database
+Customer table throws a fatal error and nothing works,Bug,Critical,database
+Customer table hangs for a long time. Steps: open the app and try again,Performance,Medium,database
+Customer table button does nothing when clicked,Bug,Medium,database
+Customer table causes data loss. Steps: open the app and try again,Bug,Critical,database
+Users report that the customer table shows an incorrect value sometimes,Bug,Medium,database
+Customer table stores passwords in plain text,Security,High,database
+The customer table shows wrong results after the latest release,Bug,High,database
+Customer table is slightly misaligned. Steps: open the app and try again,Bug,Low,database
+Users report that the customer table does not work for many users,Bug,High,database
+Problem: the customer table has a typo in the text on production,Bug,Low,database
+Problem: the database migration button does nothing when clicked on production,Bug,Medium,database
+Database migration takes forever to load. Steps: open the app and try again,Performance,Medium,database
+Users report that the database migration would be better with a bulk edit option,Feature Request,Low,database
+Database migration should allow exporting to CSV. Steps: open the app and try again,Feature Request,Low,database
+The database migration fails with an exception after the latest release,Bug,High,database
+The database migration allows access without a password after the latest release,Security,Critical,database
+Database migration shows an incorrect value sometimes,Bug,Medium,database
+Problem: the database migration has a small visual glitch on production,Bug,Low,database
+Database migration corrupts saved data,Bug,Critical,database
+The database migration hangs for a long time after the latest release,Performance,Medium,database
+Problem: the database migration crashes when I click it on production,Bug,Critical,database
+Users report that the database migration needs an option to filter by date,Feature Request,Low,database
+Users report that the database migration does not refresh after an update,Bug,Medium,database
+The database migration causes data loss after the latest release,Bug,Critical,database
+SQL query stores passwords in plain text. Steps: open the app and try again,Security,High,database
+SQL query should allow exporting to CSV. Steps: open the app and try again,Feature Request,Low,database
+Users report that the SQL query takes more than 30 seconds to respond,Performance,High,database
+The SQL query is not working properly after the latest release,Bug,Medium,database
+SQL query fails with an exception. Steps: open the app and try again,Bug,High,database
+Users report that the SQL query has an extra blank space,Bug,Low,database
+SQL query does not refresh after an update. Steps: open the app and try again,Bug,Medium,database
+Users report that the SQL query times out for large data,Performance,High,database
+SQL query allows access without a password,Security,Critical,database
+Users report that the SQL query is slow under heavy load,Performance,Medium,database
+SQL query crashes when I click it,Bug,Critical,database
+Users report that the SQL query stops responding,Bug,High,database
+Users report that the SQL query crashes on startup,Bug,Critical,database
+SQL query displays a wrong message. Steps: open the app and try again,Bug,Medium,database
+Stored procedure fails with an exception,Bug,High,database
+Users report that the stored procedure shows an incorrect value sometimes,Bug,Medium,database
+Stored procedure crashes on startup,Bug,Critical,database
+Stored procedure button does nothing when clicked,Bug,Medium,database
+Users report that the stored procedure ignores the selected option,Bug,Medium,database
+The stored procedure has an extra blank space after the latest release,Bug,Low,database
+The stored procedure throws a fatal error and nothing works after the latest release,Bug,Critical,database
+Users report that the stored procedure is slow under heavy load,Performance,Medium,database
+Stored procedure loads very slowly. Steps: open the app and try again,Performance,Medium,database
+Problem: the stored procedure leaks sensitive tokens in the logs on production,Security,Critical,database
+Users report that the stored procedure has no rate limiting,Security,High,database
+The stored procedure lags when scrolling after the latest release,Performance,Medium,database
+Users report that the stored procedure exposes user data publicly,Security,Critical,database
+Stored procedure does not work for many users. Steps: open the app and try again,Bug,High,database
+Problem: the database connection crashes when I click it on production,Bug,Critical,database
+The database connection should allow exporting to CSV after the latest release,Feature Request,Low,database
+The database connection is slow under heavy load after the latest release,Performance,Medium,database
+Database connection allows access without a password. Steps: open the app and try again,Security,Critical,database
+Database connection needs support for dark mode. Steps: open the app and try again,Feature Request,Low,database
+Users report that the database connection behaves inconsistently,Bug,Medium,database
+Users report that the database connection corrupts saved data,Bug,Critical,database
+Users report that the database connection is completely down,Bug,Critical,database
+Users report that the database connection uses too much memory,Performance,Medium,database
+Users report that the database connection is very slow,Performance,Medium,database
+Database connection does not work for many users. Steps: open the app and try again,Bug,High,database
+The database connection button does nothing when clicked after the latest release,Bug,Medium,database
+Users report that the database connection displays a wrong message,Bug,Medium,database
+Database connection needs an option to filter by date. Steps: open the app and try again,Feature Request,Low,database
+Orders index allows access without a password. Steps: open the app and try again,Security,Critical,database
+The orders index is slow under heavy load after the latest release,Performance,Medium,database
+Problem: the orders index fails with an exception on production,Bug,High,database
+The orders index stops responding after the latest release,Bug,High,database
+The orders index needs support for dark mode after the latest release,Feature Request,Low,database
+Orders index throws a fatal error and nothing works,Bug,Critical,database
+The orders index behaves inconsistently after the latest release,Bug,Medium,database
+Users report that the orders index takes more than 30 seconds to respond,Performance,High,database
+Problem: the orders index times out for large data on production,Performance,High,database
+Orders index does not refresh after an update,Bug,Medium,database
+Users report that the orders index is very slow,Performance,Medium,database
+The orders index is slightly misaligned after the latest release,Bug,Low,database
+Users report that the orders index loads very slowly,Performance,Medium,database
+Users report that the orders index is vulnerable to SQL injection,Security,Critical,database
+Problem: the backup job leaks sensitive tokens in the logs on production,Security,Critical,database
+Users report that the backup job shows an incorrect value sometimes,Bug,Medium,database
+The backup job crashes when I click it after the latest release,Bug,Critical,database
+Problem: the backup job uses too much memory on production,Performance,Medium,database
+Problem: the backup job loads very slowly on production,Performance,Medium,database
+The backup job needs support for dark mode after the latest release,Feature Request,Low,database
+Backup job is vulnerable to SQL injection,Security,Critical,database
+Users report that the backup job behaves inconsistently,Bug,Medium,database
+The backup job stores passwords in plain text after the latest release,Security,High,database
+Backup job is not working properly. Steps: open the app and try again,Bug,Medium,database
+Backup job is slightly misaligned. Steps: open the app and try again,Bug,Low,database
+Backup job is completely down. Steps: open the app and try again,Bug,Critical,database
+Backup job displays a wrong message. Steps: open the app and try again,Bug,Medium,database
+Users report that the backup job does not work for many users,Bug,High,database
+Data sync crashes when I click it,Bug,Critical,database
+The data sync does not work for many users after the latest release,Bug,High,database
+The data sync causes data loss after the latest release,Bug,Critical,database
+The data sync lags when scrolling after the latest release,Performance,Medium,database
+Problem: the data sync hangs for a long time on production,Performance,Medium,database
+Data sync has no rate limiting,Security,High,database
+Data sync times out for large data. Steps: open the app and try again,Performance,High,database
+Data sync crashes on startup,Bug,Critical,database
+Problem: the data sync throws a fatal error and nothing works on production,Bug,Critical,database
+Data sync is slow under heavy load,Performance,Medium,database
+Data sync takes forever to load,Performance,Medium,database
+The data sync is very slow after the latest release,Performance,Medium,database
+The data sync fails with an exception after the latest release,Bug,High,database
+Problem: the data sync is vulnerable to SQL injection on production,Security,Critical,database
+The audit log table causes data loss after the latest release,Bug,Critical,database
+Problem: the audit log table would be better with a bulk edit option on production,Feature Request,Low,database
+Audit log table has a small visual glitch,Bug,Low,database
+Audit log table does not work for many users,Bug,High,database
+Problem: the audit log table ignores the selected option on production,Bug,Medium,database
+Users report that the audit log table is vulnerable to SQL injection,Security,Critical,database
+Audit log table lags when scrolling. Steps: open the app and try again,Performance,Medium,database
+Users report that the audit log table fails with an exception,Bug,High,database
+Users report that the audit log table returns a 500 error,Bug,High,database
+The audit log table throws a fatal error and nothing works after the latest release,Bug,Critical,database
+Audit log table should allow exporting to CSV. Steps: open the app and try again,Feature Request,Low,database
+Problem: the audit log table shows an incorrect value sometimes on production,Bug,Medium,database
+The audit log table times out for large data after the latest release,Performance,High,database
+Problem: the audit log table needs support for dark mode on production,Feature Request,Low,database
+Users report that the reporting query displays a wrong message,Bug,Medium,database
+The reporting query crashes when I click it after the latest release,Bug,Critical,database
+Reporting query uses too much memory. Steps: open the app and try again,Performance,Medium,database
+Reporting query has a small visual glitch,Bug,Low,database
+Users report that the reporting query is completely down,Bug,Critical,database
+Reporting query would be better with a bulk edit option. Steps: open the app and try again,Feature Request,Low,database
+Users report that the reporting query shows an incorrect value sometimes,Bug,Medium,database
+Reporting query times out for large data. Steps: open the app and try again,Performance,High,database
+The reporting query should allow exporting to CSV after the latest release,Feature Request,Low,database
+Reporting query corrupts saved data,Bug,Critical,database
+Users report that the reporting query ignores the selected option,Bug,Medium,database
+Problem: the reporting query does not refresh after an update on production,Bug,Medium,database
+Reporting query is slightly misaligned,Bug,Low,database
+The reporting query behaves inconsistently after the latest release,Bug,Medium,database
+Payment page times out for large data. Steps: open the app and try again,Performance,High,payments
+Payment page shows an incorrect value sometimes. Steps: open the app and try again,Bug,Medium,payments
+Payment page has a small visual glitch,Bug,Low,payments
+Problem: the payment page would be better with a bulk edit option on production,Feature Request,Low,payments
+The payment page does not refresh after an update after the latest release,Bug,Medium,payments
+Payment page takes forever to load. Steps: open the app and try again,Performance,Medium,payments
+Payment page stores passwords in plain text,Security,High,payments
+The payment page ignores the selected option after the latest release,Bug,Medium,payments
+Payment page button does nothing when clicked,Bug,Medium,payments
+Problem: the payment page returns a 500 error on production,Bug,High,payments
+The payment page needs an option to filter by date after the latest release,Feature Request,Low,payments
+Payment page fails intermittently. Steps: open the app and try again,Bug,High,payments
+Payment page is very slow,Performance,Medium,payments
+Payment page fails with an exception,Bug,High,payments
+Checkout fails intermittently. Steps: open the app and try again,Bug,High,payments
+Users report that the checkout is slow under heavy load,Performance,Medium,payments
+Users report that the checkout is very slow,Performance,Medium,payments
+Checkout has a typo in the text. Steps: open the app and try again,Bug,Low,payments
+The checkout fails with an exception after the latest release,Bug,High,payments
+Checkout corrupts saved data,Bug,Critical,payments
+Checkout stops responding,Bug,High,payments
+Checkout is slightly misaligned,Bug,Low,payments
+Users report that the checkout shows an incorrect value sometimes,Bug,Medium,payments
+Checkout needs an option to filter by date,Feature Request,Low,payments
+Users report that the checkout takes forever to load,Performance,Medium,payments
+Checkout causes data loss. Steps: open the app and try again,Bug,Critical,payments
+Checkout shows wrong results,Bug,High,payments
+Problem: the checkout allows access without a password on production,Security,Critical,payments
+Refund flow behaves inconsistently. Steps: open the app and try again,Bug,Medium,payments
+Refund flow loads very slowly,Performance,Medium,payments
+Refund flow uses the wrong colour. Steps: open the app and try again,Bug,Low,payments
+The refund flow has a small visual glitch after the latest release,Bug,Low,payments
+Refund flow lags when scrolling. Steps: open the app and try again,Performance,Medium,payments
+Refund flow corrupts saved data,Bug,Critical,payments
+Refund flow is completely down. Steps: open the app and try again,Bug,Critical,payments
+Refund flow hangs for a long time,Performance,Medium,payments
+Refund flow shows an incorrect value sometimes. Steps: open the app and try again,Bug,Medium,payments
+Refund flow has an extra blank space,Bug,Low,payments
+Refund flow is very slow,Performance,Medium,payments
+Users report that the refund flow exposes user data publicly,Security,Critical,payments
+The refund flow stops responding after the latest release,Bug,High,payments
+Refund flow fails intermittently,Bug,High,payments
+The card transaction stores passwords in plain text after the latest release,Security,High,payments
+Card transaction is slightly misaligned,Bug,Low,payments
+Card transaction has an extra blank space. Steps: open the app and try again,Bug,Low,payments
+Card transaction is not working properly. Steps: open the app and try again,Bug,Medium,payments
+Card transaction would be better with a bulk edit option. Steps: open the app and try again,Feature Request,Low,payments
+Users report that the card transaction causes data loss,Bug,Critical,payments
+Card transaction ignores the selected option. Steps: open the app and try again,Bug,Medium,payments
+Card transaction has a typo in the text. Steps: open the app and try again,Bug,Low,payments
+The card transaction needs support for dark mode after the latest release,Feature Request,Low,payments
+Card transaction has a small visual glitch. Steps: open the app and try again,Bug,Low,payments
+The card transaction crashes on startup after the latest release,Bug,Critical,payments
+Card transaction throws a fatal error and nothing works,Bug,Critical,payments
+Users report that the card transaction takes more than 30 seconds to respond,Performance,High,payments
+The card transaction uses too much memory after the latest release,Performance,Medium,payments
+Invoice generation stores passwords in plain text,Security,High,payments
+Invoice generation displays a wrong message. Steps: open the app and try again,Bug,Medium,payments
+Problem: the invoice generation has a typo in the text on production,Bug,Low,payments
+Problem: the invoice generation should allow exporting to CSV on production,Feature Request,Low,payments
+Users report that the invoice generation takes forever to load,Performance,Medium,payments
+The invoice generation has an extra blank space after the latest release,Bug,Low,payments
+Invoice generation corrupts saved data. Steps: open the app and try again,Bug,Critical,payments
+Invoice generation takes more than 30 seconds to respond,Performance,High,payments
+Invoice generation shows an incorrect value sometimes,Bug,Medium,payments
+Users report that the invoice generation is slow under heavy load,Performance,Medium,payments
+Problem: the invoice generation stops responding on production,Bug,High,payments
+Invoice generation would be better with a bulk edit option,Feature Request,Low,payments
+The invoice generation behaves inconsistently after the latest release,Bug,Medium,payments
+Invoice generation causes data loss,Bug,Critical,payments
+Users report that the UPI payment uses too much memory,Performance,Medium,payments
+Users report that the UPI payment times out for large data,Performance,High,payments
+Users report that the UPI payment is very slow,Performance,Medium,payments
+Users report that the UPI payment fails intermittently,Bug,High,payments
+The UPI payment does not refresh after an update after the latest release,Bug,Medium,payments
+UPI payment does not work for many users. Steps: open the app and try again,Bug,High,payments
+The UPI payment needs an option to filter by date after the latest release,Feature Request,Low,payments
+The UPI payment takes forever to load after the latest release,Performance,Medium,payments
+The UPI payment displays a wrong message after the latest release,Bug,Medium,payments
+The UPI payment fails with an exception after the latest release,Bug,High,payments
+The UPI payment button does nothing when clicked after the latest release,Bug,Medium,payments
+Users report that the UPI payment takes more than 30 seconds to respond,Performance,High,payments
+Problem: the UPI payment has no rate limiting on production,Security,High,payments
+The UPI payment would be better with a bulk edit option after the latest release,Feature Request,Low,payments
+The payment gateway has a typo in the text after the latest release,Bug,Low,payments
+Payment gateway throws a fatal error and nothing works. Steps: open the app and try again,Bug,Critical,payments
+Users report that the payment gateway is slow under heavy load,Performance,Medium,payments
+Payment gateway ignores the selected option,Bug,Medium,payments
+Users report that the payment gateway displays a wrong message,Bug,Medium,payments
+The payment gateway takes more than 30 seconds to respond after the latest release,Performance,High,payments
+Payment gateway is vulnerable to SQL injection,Security,Critical,payments
+Payment gateway does not refresh after an update,Bug,Medium,payments
+The payment gateway returns a 500 error after the latest release,Bug,High,payments
+Problem: the payment gateway takes forever to load on production,Performance,Medium,payments
+Problem: the payment gateway causes data loss on production,Bug,Critical,payments
+The payment gateway exposes user data publicly after the latest release,Security,Critical,payments
+Payment gateway crashes on startup,Bug,Critical,payments
+Users report that the payment gateway stores passwords in plain text,Security,High,payments
+The billing page takes more than 30 seconds to respond after the latest release,Performance,High,payments
+Users report that the billing page fails intermittently,Bug,High,payments
+Billing page is very slow,Performance,Medium,payments
+Problem: the billing page stores passwords in plain text on production,Security,High,payments
+The billing page ignores the selected option after the latest release,Bug,Medium,payments
+Billing page crashes on startup,Bug,Critical,payments
+Users report that the billing page returns a 500 error,Bug,High,payments
+Billing page uses the wrong colour. Steps: open the app and try again,Bug,Low,payments
+Users report that the billing page behaves inconsistently,Bug,Medium,payments
+The billing page causes data loss after the latest release,Bug,Critical,payments
+Problem: the billing page has an extra blank space on production,Bug,Low,payments
+Users report that the billing page is slightly misaligned,Bug,Low,payments
+Billing page throws a fatal error and nothing works,Bug,Critical,payments
+The billing page crashes when I click it after the latest release,Bug,Critical,payments
+Coupon code causes data loss. Steps: open the app and try again,Bug,Critical,payments
+Users report that the coupon code times out for large data,Performance,High,payments
+Users report that the coupon code allows access without a password,Security,Critical,payments
+Coupon code hangs for a long time. Steps: open the app and try again,Performance,Medium,payments
+Coupon code throws a fatal error and nothing works,Bug,Critical,payments
+Users report that the coupon code uses too much memory,Performance,Medium,payments
+Problem: the coupon code returns a 500 error on production,Bug,High,payments
+Users report that the coupon code is slow under heavy load,Performance,Medium,payments
+Coupon code shows wrong results. Steps: open the app and try again,Bug,High,payments
+Coupon code corrupts saved data. Steps: open the app and try again,Bug,Critical,payments
+Coupon code stops responding,Bug,High,payments
+Users report that the coupon code should allow exporting to CSV,Feature Request,Low,payments
+The coupon code uses the wrong colour after the latest release,Bug,Low,payments
+Coupon code does not work for many users. Steps: open the app and try again,Bug,High,payments
+Wallet balance is slow under heavy load,Performance,Medium,payments
+Problem: the wallet balance behaves inconsistently on production,Bug,Medium,payments
+The wallet balance crashes on startup after the latest release,Bug,Critical,payments
+Wallet balance lags when scrolling. Steps: open the app and try again,Performance,Medium,payments
+Wallet balance stops responding,Bug,High,payments
+Problem: the wallet balance needs support for dark mode on production,Feature Request,Low,payments
+Problem: the wallet balance fails with an exception on production,Bug,High,payments
+Users report that the wallet balance corrupts saved data,Bug,Critical,payments
+Problem: the wallet balance needs an option to filter by date on production,Feature Request,Low,payments
+The wallet balance has an extra blank space after the latest release,Bug,Low,payments
+The wallet balance takes forever to load after the latest release,Performance,Medium,payments
+Users report that the wallet balance stores passwords in plain text,Security,High,payments
+Users report that the wallet balance throws a fatal error and nothing works,Bug,Critical,payments
+The wallet balance should allow exporting to CSV after the latest release,Feature Request,Low,payments
+Login is vulnerable to SQL injection. Steps: open the app and try again,Security,Critical,auth
+Login stops responding,Bug,High,auth
+Problem: the login throws a fatal error and nothing works on production,Bug,Critical,auth
+The login returns a 500 error after the latest release,Bug,High,auth
+The login loads very slowly after the latest release,Performance,Medium,auth
+Problem: the login times out for large data on production,Performance,High,auth
+Login shows an incorrect value sometimes. Steps: open the app and try again,Bug,Medium,auth
+Problem: the login has a small visual glitch on production,Bug,Low,auth
+The login does not work for many users after the latest release,Bug,High,auth
+Login causes data loss. Steps: open the app and try again,Bug,Critical,auth
+The login hangs for a long time after the latest release,Performance,Medium,auth
+Problem: the login has a typo in the text on production,Bug,Low,auth
+The login crashes when I click it after the latest release,Bug,Critical,auth
+Login allows access without a password,Security,Critical,auth
+Problem: the password reset is slow under heavy load on production,Performance,Medium,auth
+Password reset is vulnerable to SQL injection. Steps: open the app and try again,Security,Critical,auth
+Problem: the password reset stops responding on production,Bug,High,auth
+Users report that the password reset loads very slowly,Performance,Medium,auth
+Password reset uses the wrong colour. Steps: open the app and try again,Bug,Low,auth
+Users report that the password reset fails with an exception,Bug,High,auth
+Problem: the password reset shows wrong results on production,Bug,High,auth
+The password reset displays a wrong message after the latest release,Bug,Medium,auth
+Password reset shows an incorrect value sometimes. Steps: open the app and try again,Bug,Medium,auth
+Password reset causes data loss. Steps: open the app and try again,Bug,Critical,auth
+Users report that the password reset would be better with a bulk edit option,Feature Request,Low,auth
+Password reset has a typo in the text. Steps: open the app and try again,Bug,Low,auth
+Problem: the password reset is completely down on production,Bug,Critical,auth
+Password reset exposes user data publicly. Steps: open the app and try again,Security,Critical,auth
+The OTP verification fails intermittently after the latest release,Bug,High,auth
+Users report that the OTP verification crashes when I click it,Bug,Critical,auth
+OTP verification crashes on startup. Steps: open the app and try again,Bug,Critical,auth
+Users report that the OTP verification needs support for dark mode,Feature Request,Low,auth
+OTP verification times out for large data,Performance,High,auth
+OTP verification takes forever to load. Steps: open the app and try again,Performance,Medium,auth
+Problem: the OTP verification displays a wrong message on production,Bug,Medium,auth
+Problem: the OTP verification is very slow on production,Performance,Medium,auth
+OTP verification has no rate limiting,Security,High,auth
+OTP verification needs an option to filter by date,Feature Request,Low,auth
+The OTP verification hangs for a long time after the latest release,Performance,Medium,auth
+OTP verification is slow under heavy load,Performance,Medium,auth
+Users report that the OTP verification is completely down,Bug,Critical,auth
+Problem: the OTP verification causes data loss on production,Bug,Critical,auth
+The session token corrupts saved data after the latest release,Bug,Critical,auth
+The session token is completely down after the latest release,Bug,Critical,auth
+Session token takes more than 30 seconds to respond,Performance,High,auth
+Users report that the session token loads very slowly,Performance,Medium,auth
+Problem: the session token does not work for many users on production,Bug,High,auth
+Users report that the session token crashes when I click it,Bug,Critical,auth
+The session token throws a fatal error and nothing works after the latest release,Bug,Critical,auth
+Users report that the session token fails with an exception,Bug,High,auth
+Problem: the session token shows an incorrect value sometimes on production,Bug,Medium,auth
+Users report that the session token stores passwords in plain text,Security,High,auth
+Session token times out for large data. Steps: open the app and try again,Performance,High,auth
+The session token button does nothing when clicked after the latest release,Bug,Medium,auth
+Users report that the session token hangs for a long time,Performance,Medium,auth
+Problem: the session token is slow under heavy load on production,Performance,Medium,auth
+Users report that the user permissions hangs for a long time,Performance,Medium,auth
+Users report that the user permissions behaves inconsistently,Bug,Medium,auth
+User permissions has no rate limiting. Steps: open the app and try again,Security,High,auth
+The user permissions ignores the selected option after the latest release,Bug,Medium,auth
+Users report that the user permissions takes more than 30 seconds to respond,Performance,High,auth
+User permissions displays a wrong message,Bug,Medium,auth
+Problem: the user permissions has a typo in the text on production,Bug,Low,auth
+User permissions has an extra blank space,Bug,Low,auth
+Users report that the user permissions causes data loss,Bug,Critical,auth
+User permissions shows an incorrect value sometimes. Steps: open the app and try again,Bug,Medium,auth
+Problem: the user permissions fails intermittently on production,Bug,High,auth
+Problem: the user permissions is slow under heavy load on production,Performance,Medium,auth
+Problem: the user permissions corrupts saved data on production,Bug,Critical,auth
+User permissions leaks sensitive tokens in the logs,Security,Critical,auth
+The single sign-on ignores the selected option after the latest release,Bug,Medium,auth
+Problem: the single sign-on exposes user data publicly on production,Security,Critical,auth
+Single sign-on should allow exporting to CSV,Feature Request,Low,auth
+Users report that the single sign-on is slow under heavy load,Performance,Medium,auth
+Problem: the single sign-on has an extra blank space on production,Bug,Low,auth
+Users report that the single sign-on needs an option to filter by date,Feature Request,Low,auth
+Users report that the single sign-on loads very slowly,Performance,Medium,auth
+Problem: the single sign-on stores passwords in plain text on production,Security,High,auth
+Users report that the single sign-on shows wrong results,Bug,High,auth
+Single sign-on allows access without a password,Security,Critical,auth
+Single sign-on is slightly misaligned,Bug,Low,auth
+The single sign-on corrupts saved data after the latest release,Bug,Critical,auth
+The single sign-on does not refresh after an update after the latest release,Bug,Medium,auth
+Users report that the single sign-on fails with an exception,Bug,High,auth
+Problem: the access control needs support for dark mode on production,Feature Request,Low,auth
+Users report that the access control should allow exporting to CSV,Feature Request,Low,auth
+Users report that the access control lags when scrolling,Performance,Medium,auth
+Access control uses too much memory,Performance,Medium,auth
+Problem: the access control takes more than 30 seconds to respond on production,Performance,High,auth
+Users report that the access control has an extra blank space,Bug,Low,auth
+Problem: the access control is completely down on production,Bug,Critical,auth
+The access control does not work for many users after the latest release,Bug,High,auth
+Access control times out for large data. Steps: open the app and try again,Performance,High,auth
+Problem: the access control does not refresh after an update on production,Bug,Medium,auth
+Users report that the access control causes data loss,Bug,Critical,auth
+Problem: the access control crashes when I click it on production,Bug,Critical,auth
+The access control exposes user data publicly after the latest release,Security,Critical,auth
+The access control crashes on startup after the latest release,Bug,Critical,auth
+Users report that the two-factor authentication has an extra blank space,Bug,Low,auth
+Two-factor authentication needs support for dark mode. Steps: open the app and try again,Feature Request,Low,auth
+Users report that the two-factor authentication hangs for a long time,Performance,Medium,auth
+Two-factor authentication stops responding,Bug,High,auth
+Two-factor authentication does not work for many users,Bug,High,auth
+Problem: the two-factor authentication crashes on startup on production,Bug,Critical,auth
+Users report that the two-factor authentication displays a wrong message,Bug,Medium,auth
+Problem: the two-factor authentication shows wrong results on production,Bug,High,auth
+Problem: the two-factor authentication is very slow on production,Performance,Medium,auth
+Two-factor authentication returns a 500 error. Steps: open the app and try again,Bug,High,auth
+Problem: the two-factor authentication throws a fatal error and nothing works on production,Bug,Critical,auth
+Problem: the two-factor authentication allows access without a password on production,Security,Critical,auth
+Two-factor authentication lags when scrolling. Steps: open the app and try again,Performance,Medium,auth
+The two-factor authentication is slightly misaligned after the latest release,Bug,Low,auth
+Problem: the JWT token stops responding on production,Bug,High,auth
+The JWT token crashes on startup after the latest release,Bug,Critical,auth
+The JWT token causes data loss after the latest release,Bug,Critical,auth
+JWT token is completely down. Steps: open the app and try again,Bug,Critical,auth
+The JWT token exposes user data publicly after the latest release,Security,Critical,auth
+Problem: the JWT token crashes when I click it on production,Bug,Critical,auth
+Problem: the JWT token is slow under heavy load on production,Performance,Medium,auth
+Problem: the JWT token fails intermittently on production,Bug,High,auth
+JWT token displays a wrong message. Steps: open the app and try again,Bug,Medium,auth
+Problem: the JWT token needs an option to filter by date on production,Feature Request,Low,auth
+The JWT token needs support for dark mode after the latest release,Feature Request,Low,auth
+Problem: the JWT token returns a 500 error on production,Bug,High,auth
+Users report that the JWT token would be better with a bulk edit option,Feature Request,Low,auth
+JWT token has a small visual glitch,Bug,Low,auth
+Users report that the admin role has a small visual glitch,Bug,Low,auth
+The admin role should allow exporting to CSV after the latest release,Feature Request,Low,auth
+Admin role is completely down,Bug,Critical,auth
+Admin role hangs for a long time,Performance,Medium,auth
+Users report that the admin role exposes user data publicly,Security,Critical,auth
+Users report that the admin role crashes on startup,Bug,Critical,auth
+Admin role loads very slowly,Performance,Medium,auth
+Users report that the admin role lags when scrolling,Performance,Medium,auth
+Problem: the admin role takes forever to load on production,Performance,Medium,auth
+Admin role corrupts saved data. Steps: open the app and try again,Bug,Critical,auth
+Problem: the admin role is very slow on production,Performance,Medium,auth
+Users report that the admin role fails intermittently,Bug,High,auth
+Users report that the admin role fails with an exception,Bug,High,auth
+The admin role would be better with a bulk edit option after the latest release,Feature Request,Low,auth
